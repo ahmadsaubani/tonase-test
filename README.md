@@ -18,6 +18,8 @@ maka coba update composer ke version 2
 
 
 ## How to install
+enter the root project
+run `` composer install `` on your terminal
 
 run executable script in root project
 `` ./start.sh ``
